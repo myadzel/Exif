@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="xsl/exif.xsl"?>
+<document>
+	<image>
+		<name>image.jpg</name>
+		<exif>
+			<Make>Panasonic</Make>
+			<Model>DMC-LX5</Model>
+			<Orientation>1</Orientation>
+			<XResolution>180</XResolution>
+			<YResolution>180</YResolution>
+			<ResolutionUnit>2</ResolutionUnit>
+			<Software>Ver.1.0</Software>
+			<DateTime>2012-01-05 16:47:16</DateTime>
+			<Artist />
+			<YCbCrPositioning>2</YCbCrPositioning>
+			<ExposureTime>0.0125</ExposureTime>
+			<FNumber>2</FNumber>
+			<ExposureProgram>2</ExposureProgram>
+			<ISOSpeedRatings>80</ISOSpeedRatings>
+			<DateTimeOriginal>2012-01-05 16:47:16</DateTimeOriginal>
+			<DateTimeDigitized>2012-01-05 16:47:16</DateTimeDigitized>
+			<CompressedBitsPerPixel>4</CompressedBitsPerPixel>
+			<ExposureBiasValue>0</ExposureBiasValue>
+			<MaxApertureValue>2</MaxApertureValue>
+			<MeteringMode>5</MeteringMode>
+			<LightSource>0</LightSource>
+			<Flash>16</Flash>
+			<FocalLength>5.1</FocalLength>
+			<ColorSpace>1</ColorSpace>
+			<ExifImageWidth>3968</ExifImageWidth>
+			<ExifImageHeight>2232</ExifImageHeight>
+			<ExifInteroperabilityOffset>10912</ExifInteroperabilityOffset>
+			<SensingMethod>2</SensingMethod>
+			<CustomRendered>0</CustomRendered>
+			<ExposureMode>0</ExposureMode>
+			<WhiteBalance>0</WhiteBalance>
+			<DigitalZoomRatio>0</DigitalZoomRatio>
+			<FocalLengthIn35mmFilm>24</FocalLengthIn35mmFilm>
+			<SceneCaptureType>0</SceneCaptureType>
+			<GainControl>0</GainControl>
+			<Contrast>0</Contrast>
+			<Saturation>0</Saturation>
+			<Sharpness>0</Sharpness>
+		</exif>
+	</image>
+</document>	
