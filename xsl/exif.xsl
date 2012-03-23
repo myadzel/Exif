@@ -37,7 +37,7 @@
 	</dl>
 </xsl:template>
 
-<xsl:template match="node()[name()]" mode="exif-param">
+<xsl:template match="node()[name()][string(.)]" mode="exif-param">
 	<dt>
 		<xsl:apply-templates select="." mode="exif-label" />
 	</dt>
